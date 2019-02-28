@@ -1,0 +1,32 @@
+.keys {
+	background: #777777;
+	color: white;
+	width: 10%;
+  height: 10%;
+  padding: 1%;
+  font-size: large;
+  margin-bottom:2%;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.tab_links {
+  background-color: #555555;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 1%;
+  font-size: x-large;
+  width: 26%;
+}
+
+
+#home {background-color: #11db68;}
+#about {background-color: #f23a3a;}
+#help {background-color: #3b80ef;}
